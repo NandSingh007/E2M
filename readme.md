@@ -9,10 +9,6 @@ The assignment involves two main folders:
 
 ## Features
 
-1. **Chat Creation**:
-    - New Chat Button
-    - Option to invite members via a modal or dropdown
-    - Users can be invited to chats using their usernames
 
 2. **Real-time Chat with WebSocket**:
     - A WebSocket server is set up (using **Socket.IO** or native WebSocket)
